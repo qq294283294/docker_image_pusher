@@ -1,1 +1,2 @@
 swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow
+mysql:5.7
