@@ -1,1 +1,1 @@
-swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow
+oracle:19c
