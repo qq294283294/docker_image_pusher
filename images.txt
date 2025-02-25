@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/ingestion:1.6.4
+elasticsearch:7.6.1
