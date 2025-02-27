@@ -1,2 +1,1 @@
-docker.getcollate.io/openmetadata/server:1.6.4
-docker.getcollate.io/openmetadata/ingestion:1.6.4
+alpine:3
