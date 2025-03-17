@@ -1,1 +1,1 @@
-debezium/connect:3
+debezium/connect:latest
