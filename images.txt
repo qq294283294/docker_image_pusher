@@ -1,1 +1,1 @@
-quay.io/debezium/debezium
+quay.io/debezium/connect
