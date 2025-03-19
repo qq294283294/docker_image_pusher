@@ -1,1 +1,1 @@
-quay.io/debezium/connect
+quay.io/debezium/debezium-ui:2.4
