@@ -1,1 +1,1 @@
-quay.io/debezium/debezium-ui:2.7
+quay.io/debezium/debezium-ui
