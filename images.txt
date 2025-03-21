@@ -1,1 +1,1 @@
-quay.io/debezium/debezium-ui:2.4
+sheepkiller/kafka-manager:latest
