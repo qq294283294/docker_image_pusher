@@ -1,1 +1,1 @@
-sheepkiller/kafka-manager:latest
+influxdb:latest
